@@ -1,1 +1,1 @@
-# PracticalTest02
+Alexandru Dumitrasco 342C1
